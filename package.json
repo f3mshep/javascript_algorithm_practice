@@ -1,0 +1,25 @@
+{
+  "name": "javascript_algorithm_practice",
+  "version": "1.0.0",
+  "description": "solving javascript algorithms whoo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f3mshep/javascript_algorithm_practice.git"
+  },
+  "author": "Alexandra Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f3mshep/javascript_algorithm_practice/issues"
+  },
+  "homepage": "https://github.com/f3mshep/javascript_algorithm_practice#readme",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
