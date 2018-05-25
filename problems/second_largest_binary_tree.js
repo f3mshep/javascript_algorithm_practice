@@ -1,4 +1,4 @@
-// Write a function to check that a binary tree is a valid binary search tree.
+//  Write a function to find the 2nd largest element in a binary search tree.
 
 function BinaryTreeNode(value) {
   this.value = value;
@@ -16,6 +16,6 @@ BinaryTreeNode.prototype.insertRight = function (value) {
   return this.right;
 };
 
-function isValidTree(head) {
+function secondLargestElementBST(head){
 
-};
+}
